@@ -1,0 +1,16 @@
+table{
+    /*border:2px solid red;*/
+    color:black;
+    background-color:#A9DFBF;
+}
+th{
+    color:Blue;
+}
+tr{
+    border:2px solid red;
+}
+a{
+    text-decoration:none;
+    color:Black;
+}
+
